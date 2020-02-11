@@ -1,0 +1,25 @@
+FUNCTION DOCUMENT READY{ 
+
+    Create VAR Elevator = {
+        ONE :"ELevator Number One"
+        TWO :"Elevator Number Two"
+    }
+
+    Create VAR Floor = {
+        "1 to 10"
+    }
+
+     Create VAR CalloutButton = [
+        "1 to 10 up" and "1 o 10 down"
+
+    ]
+    
+    Create VAR SelectorButton = {
+        "1 to 10 floor" "OpenDoor" "CloseDoor" "Urgence"
+    } 
+    
+
+
+
+
+
